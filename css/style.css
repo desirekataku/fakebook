@@ -1,0 +1,192 @@
+/* _______________________________________avis_accueil___________________________________ */
+.avis {
+    background: black;
+}
+.aviss {
+     color: white;
+}
+/* _______________________________________nav___________________________________ */
+header{
+   background-color: aliceblue;
+   color: black;
+   position: fixed;
+   width: 100%;
+   top: 0%;
+   right: 0%;
+}
+
+#pub{
+    border-radius: 30px;
+    padding: 1%;
+  }
+
+.pub{
+    margin-left: 40%;
+    width: 30%;
+    border-radius: 60%;
+}
+
+a{
+    color: aliceblue;
+}
+
+.bd{
+    margin-top: 13%;
+    position: relative;
+    width: 100%;
+    right: 0%;
+}
+li{
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+ul{
+    color: aliceblue;
+    margin-left: 5%;
+}
+
+.search{
+    margin-left: 34%;
+    position: fixed;
+    top: 2%;
+}
+
+.deconnection{
+    margin-left: 87%;
+    position: fixed;
+    top: 2%;
+    color: blue;
+}
+#ii{
+    color: blue;
+}
+/* _______________________________________publication___________________________________ */
+
+#publication{
+    margin-top: 0%;
+}
+
+.form{
+    margin-left: 28%;
+    padding: 4%;
+}
+
+
+/* _________________________________________________________________________ */
+
+.submit{
+    background: aliceblue;
+    color: blue;
+    padding: 1%;
+    cursor: pointer;
+}
+
+/* ____________________________post_____________________________________________ */
+
+.post{
+    border: solid;
+    border-color: gray;
+    
+}
+
+.fieldset{
+    width: 5%;
+}
+
+
+
+/* ____________________________profil_____________________________________________ */
+
+
+
+#profil{
+    width: 9%;
+    border-radius: 9%;
+}
+
+.img{
+    border-radius: 250%;
+    position: fixed;
+    top: 9%;
+}
+
+
+#clr{
+ margin-left: 0%;
+ position: fixed;
+ top: 22%;
+ right: 93%;
+ border-radius: 950px;
+ border-color: white;
+ background: chartreuse;
+ width: 9px;
+ height: 6px;
+}
+
+
+
+/* ___________________________profil de commenter_____________________________________________ */
+
+#images{
+    border-radius: 250%;
+    position: none;
+    width: 70%;
+}
+
+
+/* ___________________________video_____________________________________________ */
+
+
+.bdv{
+    width: 50%;
+    height: 50%;
+    margin-left: 3%;
+}
+
+
+/* ___________________________amis_____________________________________________ */
+
+
+.bda{
+    margin-top: 9%;
+
+}
+
+
+.amis{
+    color: aliceblue;
+    border: solid;
+    width: 100%;
+    cursor: pointer;
+    
+}
+
+.amisfieldset{
+    width:  5%;
+}
+
+#Ecrire{
+     text-align: center;
+}
+
+/* ___________________________menu_____________________________________________ */
+
+#ii{
+    cursor: pointer;
+}
+
+
+/* ___________________________message_____________________________________________ */
+
+
+#pi{
+    border-radius: 15px;
+}
+
+#sp{
+    padding-left: 8%;
+}

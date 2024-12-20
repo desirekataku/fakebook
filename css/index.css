@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    
+   
+   
+}
+
+.f{
+ padding: 10%;
+ 
+}
+
+#lig{
+    background-color: whitesmoke;
+    padding-left: 5%;
+    padding-top: 4%;
+    width: 55%;
+    margin-left: 22%;
+    margin-top: 6%;
+}
+
+a{
+    /* margin-left: 5%; */
+    color: black;
+    background-color: white;
+    padding: 1%;
+    margin-left: 0%;
+}

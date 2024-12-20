@@ -1,0 +1,93 @@
+#bodymenu{
+    background-color: gray;
+}
+
+a{ 
+    color: black;
+    text-decoration: none;
+}
+
+#a1{
+    border: solid;
+    border-color: black;
+    padding: 3%;
+    background-color: white;
+    border-radius: 9%;
+}
+
+#a2{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    background-color: white;
+    border-radius: 9%;
+}
+
+#a3{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    background-color: white;
+    border-radius: 9%;
+}
+
+#a4{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    width: 50%;
+    background-color: white;
+    /* margin-left: 30%; */
+    border-radius: 9%;
+}
+
+#a5{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    width: 50%;
+    background-color: white;
+    border-radius: 9%;
+  
+}
+
+#a6{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    width: 50%;
+    background-color: white;
+    border-radius: 9%;
+}
+
+#a7{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    width: 50%;
+    background-color: white;
+    border-radius: 9%;
+}
+
+#a8{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    width: 50%;
+    background-color: white;
+    border-radius: 9%;
+}
+
+#a9{
+    border: solid;
+    border-color: black;
+    padding: 2%;
+    width: 50%;
+    background-color: white;
+    border-radius: 9%;
+}
+
+.div{
+    display: flex;
+    column-gap: 2%;
+}

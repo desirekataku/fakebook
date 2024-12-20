@@ -1,0 +1,77 @@
+.h3{
+    color: black;
+}
+
+.div{
+    color: grey;
+}
+.nv{
+   width: 100%;
+   border: solid;
+   color: gray;
+
+}
+
+#hr1{
+    padding: 1%;
+    background-color: blue;
+    width: 40%;
+    margin-left: 1%;
+}
+
+#hr{
+    padding: 1%;
+    background-color: grey;
+    width: 40%;
+    margin-left: 47%;
+}
+
+
+#hhr{
+    padding: 1%;
+    width: 100%;
+   
+}
+
+ #t1{
+    padding: 3%;
+    width: 100%;
+    border: solid;
+    border-color: gainsboro;
+ }
+
+ #t2{
+    padding: 3%;
+    width: 100%;
+    border: solid;
+    border-color: gainsboro;
+ }
+
+ #t3{
+    padding: 3%;
+    width: 100%;
+    border: solid;
+    border-color: gainsboro;
+ }
+
+ #t4{
+    padding: 3%;
+    width: 100%;
+    border: solid;
+    border-color: gainsboro;
+ }
+
+ .flex{
+    display: flex;
+ }
+
+ .ligne{
+    width: 100%;
+    padding: 1%;
+    background: skyblue;
+    color: blue;
+ }
+
+ #pos{
+    margin-left: 40%;
+ }

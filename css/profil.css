@@ -1,0 +1,105 @@
+#file{
+    background-color: blue;
+    padding: 1%;
+    color: white;
+    border-radius: 4%;
+    border-radius: 12px; 
+
+}
+
+#ajt{
+    margin-left: 40%; 
+}
+
+#pub{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+#tab{
+    color: black; 
+}
+
+.tab{
+    width: 80%;
+    padding: 1%;
+    border-radius: 12Px; 
+}
+
+#po{
+    color: black; 
+}
+
+.po{
+    width: 19%;
+    padding: 1%;
+    border-radius: 12px; 
+}
+
+/* connection en ligne vert */
+ #profil{
+    width: 9%;
+    border-radius: 9%;
+} 
+
+.img{
+    border-radius: 250%;
+}
+
+.im{
+    border-radius: 650%;
+    width: 5%;
+    height: 0%;
+}
+
+
+#clr{
+ margin-left: 0%;
+ position: fixed;
+ top: 19%;
+ right: 91%;
+ border-radius: 950px;
+ border-color: white;
+ background: chartreuse;
+ width: 9px; 
+ height: 6px;
+}
+
+.fieldset{
+    width: 1%;
+    border-radius: 250%;
+}
+
+.bb{
+   display: flex;
+  }
+
+.bbb{
+    width: 100%;
+    cursor: pointer;
+  }
+
+  .flexx{
+    display: flex;
+  }
+
+  .rkr{
+    padding: 1%;
+    background: skyblue;
+    color: blue;
+  }
+
+  #pub{
+    width: 90%;
+    padding: 1%;
+    border-radius: 30px;
+    float: right;
+  }
+
+  a{
+    color: black;
+    column-gap: 12px;
+  }
